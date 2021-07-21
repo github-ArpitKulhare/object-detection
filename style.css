@@ -1,0 +1,29 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+color: white;
+}
+
+.status_1, #number_of_object
+{
+font-size: 20px;
+color: white;
+
+}
+
+canvas
+{
+    border-radius: 25px;
+    border: lime 5px ridge;
+    box-shadow: 10px 10px 10px mediumslateblue;
+    color: greenyellow;
+    margin-top: 30px;
+}
+
